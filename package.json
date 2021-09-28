@@ -1,6 +1,9 @@
 {
   "name": "starter-name-generator",
   "version": "1.0.0",
+  "engines": {
+    "node": "14.x"
+  },
   "description": "Starter project name generator",
   "private": true,
   "repository": {
